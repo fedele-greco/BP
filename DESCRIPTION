@@ -23,3 +23,5 @@ Imports:
 LinkingTo: 
     Rcpp,
     RcppEigen
+URL: https://github.com/fedele-greco/BP
+BugReports: https://github.com/fedele-greco/BP/issues
