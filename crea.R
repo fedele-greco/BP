@@ -25,8 +25,8 @@ use_rcpp_eigen("cul2")
 load_all()
 
 # GITHUB
-# use_git()
-# use_github()
+use_git()
+use_github()
 # https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/
 # use_testthat()
 # use_spell_check()
